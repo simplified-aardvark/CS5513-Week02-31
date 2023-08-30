@@ -1,0 +1,22 @@
+[
+  {
+    "type_of_thing": "Cat",
+    "name": "Arnold",
+    "color": "Gray"
+  },
+  {
+    "type_of_thing": "Candy",
+    "name": "Jelly-Bean",
+    "color": "Blue"
+  },
+  {
+    "type_of_thing": "Fruit",
+    "name": "Apple",
+    "color": "Green"
+  },
+  {
+    "type_of_thing": "Turtle",
+    "name": "Apple",
+    "color": "Brown"
+  }
+]
